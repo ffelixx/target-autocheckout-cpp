@@ -1,0 +1,38 @@
+# Build directories
+build/
+cmake-build-*/
+bin/
+lib/
+
+# IDE files
+.vscode/
+.vs
+.idea/
+*.swp
+*.swo
+*~
+
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Configuration files with sensitive data
+config.json
+profile.json
+txt/proxies.txt
+txt/tasks.txt
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# OS specific
+.DS_Store
+Thumbs.db

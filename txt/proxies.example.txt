@@ -1,0 +1,2 @@
+proxy.example.com:8080:username:password
+proxy2.example.com:8080:username2:password2

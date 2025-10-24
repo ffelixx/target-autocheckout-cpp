@@ -1,0 +1,1 @@
+proxy.example.com:8080:username:password	12345678	1	Profile1	5000	your_cookie_here
